@@ -9,9 +9,9 @@ pinecone-client
 tiktoken
 pypdf
 langchain-ollama
-dotenv
+# dotenv
 pinecone-client[grpc]
 langchain-pinecone
-
+chromadb
 
 -e .
