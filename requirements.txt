@@ -5,5 +5,13 @@ python-dotenv
 PyPDF2
 langchain_community
 langchain-openai
+pinecone-client
+tiktoken
+pypdf
+langchain-ollama
+dotenv
+pinecone-client[grpc]
+langchain-pinecone
+
 
 -e .
