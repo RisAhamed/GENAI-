@@ -13,5 +13,10 @@ langchain-ollama
 pinecone-client[grpc]
 langchain-pinecone
 chromadb
+langchain-ollama
+huggingface-hub
+# llama-cpp-python==0.1.78
+llama-cpp-python
+numpy
 
 -e .
